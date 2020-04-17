@@ -50,4 +50,4 @@ The input may look like:
 
   - How will your algorithm scale, If you had two weeks to do this task, what would you have done differently?
     What would be better?
-    - I don't think I would change the algorithm, I think I would have change the general design of the app, maybe use an iterator for the Analyzer.
+    - I don't think I would change the algorithm, I think I would have change the general design of the app, maybe use an iterator for the Analyzer using Generics to use different formats.
